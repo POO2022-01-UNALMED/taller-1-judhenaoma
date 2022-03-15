@@ -1,0 +1,1 @@
+Al crear la carpeta llamada archivos y al realizar el commit y el push desde la consola de git no se encontró un error puntual al realizar el commit y el push, sin embargo, se recibió un warning desde la consola indicando que la carpeta está vacía y en github no se creó dicha carpeta, dado que github no crea carpetas vacías.  

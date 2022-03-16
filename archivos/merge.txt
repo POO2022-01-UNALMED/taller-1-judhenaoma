@@ -2,3 +2,6 @@ Nombre: Juan David Henao Marín
 Edad: 25 años
 Aspiraciones: Dominar los conceptos de programación orientado a objetos como pieza fundamental para el desarrollo de software. Al finalizar el curso espero estar en la capacidad de diseñar software en el paradigma de POO e implementarlo en java o python.
 
+Ahora si se puede crear un commit y hacer el push al repositorio remoto con la carpeta "archivos"  porque tiene un archivo en su interior y no está vacío.
+
+Es importante tener cuidado editar 2 archivos simultáneamente dado que se pueden tener conflictos recurrentemente, generando inconvenientes al mantener la base de código principal

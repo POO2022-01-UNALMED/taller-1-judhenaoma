@@ -1,0 +1,4 @@
+Nombre: Juan David Henao Marín
+Edad: 25 años
+Aspiraciones: Dominar los conceptos de programación orientado a objetos como pieza fundamental para el desarrollo de software. Al finalizar el curso espero estar en la capacidad de diseñar software en el paradigma de POO e implementarlo en java o python.
+
